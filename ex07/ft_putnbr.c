@@ -6,7 +6,7 @@
 /*   By: edetoh <edetoh@student.42lehavre.fr>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/07 15:26:55 by edetoh            #+#    #+#             */
-/*   Updated: 2024/08/07 15:46:04 by edetoh           ###   ########.fr       */
+/*   Updated: 2024/08/07 18:02:30 by edetoh           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,3 +28,4 @@ void	ft_putnbr(int nb)
 		n++
 	}
 }
+a voir recursivite
